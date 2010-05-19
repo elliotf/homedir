@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="icon_theme" mtime="1274142064" type="string">
+		<stringvalue>ubuntu-mono-dark</stringvalue>
+	</entry>
+	<entry name="gtk_theme" mtime="1274086164" type="string">
+		<stringvalue>AmbianceCompact</stringvalue>
+	</entry>
+	<entry name="monospace_font_name" mtime="1274047111" type="string">
+		<stringvalue>Monospace 8</stringvalue>
+	</entry>
+	<entry name="document_font_name" mtime="1274047101" type="string">
+		<stringvalue>Sans 8</stringvalue>
+	</entry>
+	<entry name="font_name" mtime="1274047073" type="string">
+		<stringvalue>Sans 8</stringvalue>
+	</entry>
+</gconf>

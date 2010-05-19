@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="options" mtime="1274047715" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>lv3	lv3:ralt_switch</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>ctrl	ctrl:nocaps</stringvalue>
+		</li>
+	</entry>
+</gconf>
